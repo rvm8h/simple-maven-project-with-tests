@@ -25,6 +25,7 @@
 package test;
 
 import org.junit.Test;
+import java.text.DecimalFormat;
 
 public class SomeTest extends Base {
 
